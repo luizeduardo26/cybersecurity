@@ -1,4 +1,4 @@
-# cybersecurity
+# Cybersecurity
 Liste dois a três pontos fortes que você tem atualmente ou está comprometido a desenvolver:
 Dedicação, boa adaptabilidade, bom trabalho em grupo são essenciais para um profissional de cibersegurança. 
 
